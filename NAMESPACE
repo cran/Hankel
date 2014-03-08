@@ -1,0 +1,2 @@
+useDynLib(Hankel)
+export(hankel.test,print.hankeltest)
